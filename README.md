@@ -14,7 +14,7 @@ gcc encoder.c -o encoder -Wall
 
 # Compile decoder
 ```
-gcc encoder.c -o encoder -Wall
+gcc decoder.c -o decoder -Wall
 ```
 
 # Use encoder
